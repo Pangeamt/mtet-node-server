@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "root",
+    "password": "epastor",
+    "database": "mtet",
+    "host": "db.pangeamt.com",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "developmentv2": {
+    "username": "root",
+    "password": "",
+    "database": "mtet_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "epastor",
+    "database": "mtet",
+    "host": "db.pangeamt.com",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": "epastor",
+    "database": "mtet",
+    "host": "db.pangeamt.com",
+    "dialect": "mysql"
+  }
+}
