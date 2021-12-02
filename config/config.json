@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "epastor",
+    "password": "xxxxxx",
     "database": "mtet",
     "host": "db.pangeamt.com",
     "dialect": "mysql",
@@ -16,7 +16,7 @@
   },
   "test": {
     "username": "root",
-    "password": "epastor",
+    "password": "xxxxxx",
     "database": "mtet",
     "host": "db.pangeamt.com",
     "dialect": "mysql",
@@ -24,7 +24,7 @@
   },
   "production": {
     "username": "root",
-    "password": "epastor",
+    "password": "xxxxxx",
     "database": "mtet",
     "host": "db.pangeamt.com",
     "dialect": "mysql"
